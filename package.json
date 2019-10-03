@@ -1,21 +1,17 @@
 {
-  "author": {
-    "name": "K.Adam White",
-    "url": "http://www.kadamwhite.com"
-  },
-  "name": "wpapi",
+  "name": "wpapi-fork",
   "version": "2.0.0-alpha.1",
   "description": "An isomorphic JavaScript client for interacting with the WordPress REST API",
   "main": "wpapi.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wp-api/node-wpapi.git"
+    "url": "https://github.com/yashha/node-wpapi.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wp-api/node-wpapi/issues"
+    "url": "https://github.com/yashha/node-wpapi/issues"
   },
-  "homepage": "https://github.com/wp-api/node-wpapi",
+  "homepage": "https://github.com/yashha/node-wpapi",
   "keywords": [
     "api",
     "client",
